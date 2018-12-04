@@ -1,0 +1,12 @@
+<html>
+<title>Hello!</title>
+<h1 style="color:turquoise"> Welcome to this "website"
+<input type="password" value="secret" size="40">
+
+
+
+ <hr color=black>
+    Copyright (C) 2018. All rights reserved.
+  </body>
+</html>
+
